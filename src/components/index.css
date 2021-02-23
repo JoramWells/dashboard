@@ -1,0 +1,9 @@
+.sideMenu{
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 328px;
+    left: 0px;
+    flex-direction: column;
+    background-color: teal;
+}
